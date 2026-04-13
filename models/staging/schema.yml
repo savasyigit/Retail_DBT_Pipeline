@@ -1,0 +1,14 @@
+version: 2
+
+models:
+  - name: stg_sales
+    columns:
+      - name: index
+        tests:
+          - not_null
+
+  - name: stg_extra
+    columns:
+      - name: index
+        tests:
+          - not_null

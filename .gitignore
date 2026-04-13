@@ -1,0 +1,22 @@
+
+# dbt
+target/
+dbt_packages/
+logs/
+
+# environments
+dbt_venv/
+venv/
+
+# data files
+*.csv
+*.parquet
+
+# notebooks
+*.ipynb
+
+# system
+.DS_Store
+
+# optional old projects
+duckdb_dbt_project/
