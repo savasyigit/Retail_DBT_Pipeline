@@ -1,0 +1,14 @@
+version: 2
+
+models:
+  - name: stg_sales
+    description: "Cleaned grocery sales data"
+
+  - name: stg_extra
+    description: "External features dataset"
+
+  - name: int_sales
+    description: "Joined sales and external features data"
+
+  - name: sales_summary
+    description: "Monthly aggregated sales metrics"

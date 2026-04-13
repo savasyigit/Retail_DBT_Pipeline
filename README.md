@@ -56,3 +56,6 @@ dbt docs serve
 * Applied dbt best practices
 * Created an analysis-ready dataset
 
+## 📊 Data Lineage
+
+![dbt docs](docs.png)
